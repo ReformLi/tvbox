@@ -9,6 +9,7 @@
     "force_update_url": "https://******.com/app.apk"
   },
   "metadata": {
+    "app_name": "MyMovieStore",
     "version": "1.0.0",
     "last_updated": "2026-06-19"
   }
