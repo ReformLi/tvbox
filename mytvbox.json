@@ -1,0 +1,15 @@
+{
+  "switches": {
+    "myapp": true,
+    "enable_analytics": false,
+    "show_maintenance_banner": false
+  },
+  "strings": {
+    "announcement": "欢迎使用，当前服务正常。",
+    "force_update_url": "https://******.com/app.apk"
+  },
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2026-06-19"
+  }
+}
