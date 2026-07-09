@@ -1,0 +1,49 @@
+{
+	"video_sources": [
+		{
+			"source_id": "crawler_jju",
+			"name": "剧集屋",
+			"base_url": "https://www.laojuji.com"
+		},
+		{
+			"source_id": "crawler_yinghua",
+			"name": "樱花动漫",
+			"base_url": "https://wap.chinakfa.com"
+		},
+		{
+			"source_id": "crawler_tiantang",
+			"name": "电影天堂",
+			"base_url": "http://www.xiaomiyingyin.cc"
+		},
+		{
+			"source_id": "crawler_cechi",
+			"name": "策驰影视",
+			"base_url": "https://www.yuetaichina.com"
+		},
+		{
+			"source_id": "crawler_nm",
+			"name": "农民影视",
+			"base_url": "https://wwww.bingsns.com"
+		},
+		{
+			"source_id": "crawler_dj",
+			"name": "豆角网",
+			"base_url": "https://m.wxkelong.cn"
+		},
+		{
+			"source_id": "crawler_hantv",
+			"name": "韩剧tv",
+			"base_url": "https://www.rjtvw.com"
+		},
+		{
+			"source_id": "crawler_nongmin_tv",
+			"name": "农民TV",
+			"base_url": "https://www.huamujx.com"
+		},
+		{
+			"source_id": "crawler_dadatu",
+			"name": "达达兔影视",
+			"base_url": "https://www.gzanshuo.com"
+		}
+	]
+}
