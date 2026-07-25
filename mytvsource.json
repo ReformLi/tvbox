@@ -1,6 +1,11 @@
 {
 	"video_sources": [
 		{
+			"source_id": "crawler_chongchong",
+			"name": "虫虫电影网",
+			"base_url": "https://www.ctwlpt.com"
+		},
+		{
 			"source_id": "crawler_jju",
 			"name": "剧集屋",
 			"base_url": "https://www.laojuji.com"
@@ -34,6 +39,11 @@
 			"source_id": "crawler_hantv",
 			"name": "韩剧tv",
 			"base_url": "https://www.rjtvw.com"
+		},
+		{
+			"source_id": "crawler_niuer",
+			"name": "九二电影网",
+			"base_url": "https://www.ccwhz.com"
 		},
 		{
 			"source_id": "crawler_nongmin_tv",
